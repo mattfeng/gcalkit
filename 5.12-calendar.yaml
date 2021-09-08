@@ -1,0 +1,84 @@
+defaults:
+  - location: 32-123
+  - start: 12:00
+  - end: 13:00
+events:
+  - chunk_prefix: 5.12 LEC
+    - date: 2021-09-08
+      title: 1. U1 Structure and Bonding
+    - date: 2021-09-10
+      title: 2. U1 Structure and Isomerism
+    - date: 2021-09-13
+      title: 3. U1 Stereoisomers I
+    - date: 2021-09-15
+      title: 4. U1 Stereoisomers II
+    - date: 2021-09-17
+      title: 5. U1 Conformational Isomers I
+    - date: 2021-09-20
+      title: 6. U1 Conformational Isomers II
+    - date: 2021-09-22
+      title: 7. U1 Structure and Energy
+    - date: 2021-09-24
+      title: 8. U1 Pi Electron Delocalization
+    - date: 2021-09-27
+      title: 9. U1 Acids and Bases I
+    - date: 2021-09-29
+      title: 10. U1 Acids and Bases II
+    - date: 2021-10-04
+      title: 11. U2 Electrophilic Addition to Alkenes I
+    - date: 2021-10-06
+      title: 12. U2 Electrophilic Addition to Alkenes II
+    - date: 2021-10-08
+      title: 13. U2 Electrophilic Addition to Alkenes III
+    - date: 2021-10-13
+      title: 14. U2 Hydroboration, Reduction, and Synthesis
+    - date: 2021-10-15
+      title: 15. U2 Oxidation of Alkenes
+    - date: 2021-10-18
+      title: 16. U2 Radical Reactions
+    - date: 2021-10-20
+      title: 17. U2 The Chemistry of Alkynes I
+    - date: 2021-10-22
+      title: 18. U2 Alkynes and Organic Synthesis
+    - date: 2021-10-27
+      title: 19. U3 Introduction to sp3 Electrophiles
+    - date: 2021-10-29
+      title: 20. U3 Substitution - SN2 and SN1
+    - date: 2021-11-01
+      title: 21. U3 Elimination - E1 and R2
+    - date: 2021-11-03
+      title: 22. U3 Predicting Mechanisms
+    - date: 2021-11-05
+      title: 23. U3 Alcohol Chemistry
+    - date: 2021-11-08
+      title: 24. U4 Nu Addition to Carbonyls
+    - date: 2021-11-10
+      title: 25. U4 Carbonyl Condensation
+    - date: 2021-11-15
+      title: 26. U4 Irreversible Additions I
+    - date: 2021-11-17
+      title: 27. U4 Irreversible Additions II
+    - date: 2021-11-19
+      title: 28. U4 Reversible Additions
+    - date: 2021-11-22
+      title: 29. U4 Introduction to Enols and Enolates
+    - date: 2021-11-24
+      title: 30. U4 Enols and Enolates Reactivity
+    - date: 2021-11-29
+      title: 31. U5 Introduction to Aromaticity
+    - date: 2021-12-01
+      title: 32. U5 Introduction to EAS
+    - date: 2021-12-06
+      title: 33. U5 Synthesis with EAS
+    - date: 2021-12-08
+      title: 34. Summary
+  - chunk_prefix: 5.12 QUIZ
+    - date: 2021-10-01
+      title: 1
+    - date: 2021-10-25
+      title: 2
+    - date: 2021-11-12
+      title: 3
+    - date: 2021-12-03
+      title: 4
+  - chunk_prefix: 5.12 PSET
