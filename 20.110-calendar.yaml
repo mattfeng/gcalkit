@@ -2,14 +2,132 @@ defaults:
   start: "10:00"
   end: "11:00"
   location: 3-270
+  calendarId: cdccrtt4q2a03kvvjmns26f15c@group.calendar.google.com
 events:
+  - chunk_prefix: 20.110 EXAM
+    events:
+      - date: 2021-10-01
+        title: 1 (Lec 1-8)
+        calendarId: hrk3bp2iu9bvut6fqhr3vnulak@group.calendar.google.com
+      - date: 2021-10-20
+        title: Midterm (HW 1-4)
+        calendarId: hrk3bp2iu9bvut6fqhr3vnulak@group.calendar.google.com
+      - date: 2021-11-10
+        title: 2 (Lec 18-23)
+        calendarId: hrk3bp2iu9bvut6fqhr3vnulak@group.calendar.google.com
+
+  - chunk_prefix: 20.110 PSET
+    events:
+      - date: 2021-09-17
+        title: 1 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-09-24
+        title: 2 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-10-08
+        title: 3 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-10-15
+        title: 4 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-10-29
+        title: 5 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-11-05
+        title: 6 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-11-19
+        title: 7 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+      - date: 2021-12-03
+        title: 8 Due
+        start: "14:40"
+        end: "15:00"
+        calendarId: 3gdc1se1gr6jhlcg5bh8d1k9c8@group.calendar.google.com
+
   - chunk_prefix: 20.110 LEC
     events:
       - date: 2021-09-08
         title: 1. Introduction
       - date: 2021-09-10
-        title: 2. First Law of Thermodynamics
-      - date: 2021-09-10
+        title: 2. 1st Law of Thermodynamics
       - date: 2021-09-13
+        title: 3. Work and Heat
       - date: 2021-09-15
-      - date: 2021-09-17
+        title: 4. Calorimetry
+      - date: 2021-09-18
+        title: 5. Enthalpy
+      - date: 2021-09-20
+        title: 6. Equations of State
+      - date: 2021-09-22
+        title: 7. Reversible and Irreversible Transitions
+      - date: 2021-09-24
+        title: 8. Entropy
+      - date: 2021-09-27
+        title: 9. 2nd and 3rd Laws of Thermodynamics
+      - date: 2021-09-29
+        title: 10. Heat Engines
+      - date: 2021-10-04
+        title: 11. Carnot Cycle
+      - date: 2021-10-06
+        title: 12. Free Energy
+      - date: 2021-10-08
+        title: 13. Exergonic Coupling
+      - date: 2021-10-13
+        title: 14. Fundamental relationships
+      - date: 2021-10-15
+        title: 15. Chemical Equilibrium
+      - date: 2021-10-18
+        title: 16. Pharmaceutical Applications
+      - date: 2021-10-22
+        title: 17. Protein/Enzyme Engineering Applications/Genome engineering/CRISPR
+      - date: 2021-10-25
+        title: 18. Intro to Stat Mech - Microstates and macrostates, probability and ensembles, entropy
+      - date: 2021-10-27
+        title: 19. Boltzmann distribution, density of states, partition functions
+      - date: 2021-10-29
+        title: 20. Stat mech 1 - protein folding
+      - date: 2021-11-01
+        title: 21. Stat mech 2 - receptor-ligand binding
+      - date: 2021-11-03
+        title: 22. Stat mech 3 - problem solving
+      - date: 2021-11-05
+        title: 23. Cooperativity, Hill equation, MWC model
+      - date: 2021-11-08
+        title: 24. Introduction to liquids - lattice model
+      - date: 2021-11-12
+        title: 25. Regular solutions, mixing energy, mean fields, interfacial tension
+      - date: 2021-11-15
+        title: 26. Colligative properties - osmotic pressure, freezing point depression
+      - date: 2021-11-17
+        title: 27. Phase partitioning and non-ideal solutions
+      - date: 2021-11-19
+        title: 28. Electrolytes 1 - electrolytic solutions, electrochemical potential, Nernst
+      - date: 2021-11-22
+        title: 29. Electrolytes 2 - Electrolytes at surfaces, surface effects on Kd, Debye length
+      - date: 2021-11-24
+        title: 30. Intermolecular forces
+      - date: 2021-11-29
+        title: 31. Micellization
+      - date: 2021-12-01
+        title: 32. Random walks
+      - date: 2021-12-03
+        title: 33. Polymers 1 - freely jointed chain
+      - date: 2021-12-06
+        title: 34. Polymers 2 - chain conformation and thermodynamics
+      - date: 2021-12-08
+        title: 25. Polymers 3 - Free energy of chain stretching
