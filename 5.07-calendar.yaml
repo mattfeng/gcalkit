@@ -1,0 +1,129 @@
+defaults:
+  location: 4-237
+  start: "09:00"
+  end: "10:00"
+  calendarId: cdccrtt4q2a03kvvjmns26f15c@group.calendar.google.com
+events:
+  - chunk_prefix: 5.07 LEC
+    events:
+      - date: 2021-09-08
+        title: 1. Introduction and course overview
+      - date: 2021-09-10
+        title: 2. Water and amino acids
+      - date: 2021-09-13
+        title: 3. Nucleic Acids 1 - Basics
+      - date: 2021-09-15
+        title: 4. Nucleic Acids 2 - Structure
+      - date: 2021-09-17
+        title: 5. Nucleic Acids 3 - Case studies
+      - date: 2021-09-20
+        title: 6. Protein structure 1 - Primary structure
+      - date: 2021-09-22
+        title: 7. Protein structure 2 - Secondary, tertiary, and quaternary structure
+      - date: 2021-09-24
+        title: 8. Protein structure 3 - Hemoglobin case study
+      - date: 2021-09-27
+        title: 9. Enzyme and catalysis 1 - Background and mechanisms
+      - date: 2021-10-01
+        title: 10. Enzyme and catalysis 2 - Kinetics and inhibition
+      - date: 2021-10-04
+        title: 11. Enzyme and catalysis 3 - Inhibition
+      - date: 2021-10-06
+        title: 12. Enzyme and catalysis 4 - Case studies in drug design
+      - date: 2021-10-08
+        title: 13. Membrane protein and transport
+      - date: 2021-10-13
+        title: 14. Biochemical transformation 1 - C-C bond formation
+      - date: 2021-10-15
+        title: 15. Biochemical transformation 2 - Phosphoryl group transfer, ATP
+      - date: 2021-10-18
+        title: 16. Biochemical transformation 3 - Redox cofactors
+      - date: 2021-10-20
+        title: 17. Carbohydrates
+      - date: 2021-10-25
+        title: 18. Introduction to metabolism
+      - date: 2021-10-27
+        title: 19. Glycolysis
+      - date: 2021-10-29
+        title: 20. Glycolysis cont.
+      - date: 2021-10-31
+        title: 21. Glycolysis cont.
+      - date: 2021-11-01
+        title: 22. Glycolysis cont.
+      - date: 2021-11-03
+        title: 23. Regulation of glycolysis
+      - date: 2021-11-08
+        title: 24. Anaerobic fermentation
+      - date: 2021-11-10
+        title: 25. Pyruvate dehydrogenase
+      - date: 2021-11-15
+        title: 26. TCA cycle
+      - date: 2021-11-17
+        title: 27. TCA cycle
+      - date: 2021-11-19
+        title: 28. TCA cycle
+      - date: 2021-11-22
+        title: 29. ET and oxidative phosphorylation 1 - overview
+      - date: 2021-11-24
+        title: 30. ET and oxidative phosphorylation 2 - electron flow and the Q cycle
+      - date: 2021-11-29
+        title: 31. ET and oxidative phosphorylation 3 - cytochrome c oxidase
+      - date: 2021-12-01
+        title: 32. ATP synthesis 1 - overview and chemiosmotic hypothesis
+      - date: 2021-12-03
+        title: 33. ATP synthesis 2 - ATP synthase structure and mechanism
+      - date: 2021-12-06
+        title: 34. Bacterial transport machines
+  - chunk_prefix: 5.07 EXAM
+    events:
+      - date: 2021-09-29
+        title: Midterm 1 (Lec 1 to 8)
+        calendarId: hrk3bp2iu9bvut6fqhr3vnulak@group.calendar.google.com
+      - date: 2021-10-22
+        title: Midterm 2 (Lec 9 to 17)
+        calendarId: hrk3bp2iu9bvut6fqhr3vnulak@group.calendar.google.com
+      - date: 2021-11-12
+        title: Midterm 3 (Lec 18 to 24)
+        calendarId: hrk3bp2iu9bvut6fqhr3vnulak@group.calendar.google.com
+  - chunk_prefix: 5.07 PSET
+    events:
+      - date: 2021-09-13
+        start: "08:45"
+        end: "09:00"
+        title: 1 Due
+      - date: 2021-09-20
+        start: "08:45"
+        end: "09:00"
+        title: 2 Due
+      - date: 2021-09-27
+        start: "08:45"
+        end: "09:00"
+        title: 3 Due
+      - date: 2021-10-08
+        start: "08:45"
+        end: "09:00"
+        title: 4 Due
+      - date: 2021-10-20
+        start: "08:45"
+        end: "09:00"
+        title: 5 Due
+      - date: 2021-10-29
+        start: "08:45"
+        end: "09:00"
+        title: 6 Due
+      - date: 2021-11-03
+        start: "08:45"
+        end: "09:00"
+        title: 7 Due
+      - date: 2021-11-22
+        start: "08:45"
+        end: "09:00"
+        title: 8 Due
+      - date: 2021-12-01
+        start: "08:45"
+        end: "09:00"
+        title: 9 Due
+      - date: 2021-12-06
+        start: "08:45"
+        end: "09:00"
+        title: 10 Due
