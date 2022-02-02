@@ -1,0 +1,10 @@
+defaults:
+  start:
+  end:
+
+events:
+  - chunk_prefix: 20.309 LEC
+    events:
+    - date: 2021-11-30
+      title: (Popular lecture)
+  
